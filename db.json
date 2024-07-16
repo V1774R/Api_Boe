@@ -66,5 +66,78 @@
   ],
   "relatorios": [],
   "boletins": [],
-  "videos": []
+  "videos": [
+  {
+    "titulo": "A FREIRA",
+    "categoria": "Terror",
+    "imagem": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBxAQEBAQDw8PDw8QEA8QDw8PEA8PDw8QFRUWFhUVFRUYHSggGBolHRUVITEhJSkrLi4uFx8zODMtNygtLisBCgoKDg0OGhAPFy0dHR0tLS0tLSstLSstLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0rLS0tLSstKy0tLS0tLS0tLf/AABEIAKgBLAMBIgACEQEDEQH/xAAbAAEAAwEBAQEAAAAAAAAAAAAAAQIDBAYFB//EADUQAAICAQEGAwYFAwUAAAAAAAABAhEDIQQFEjFBUWFxkQYTIoGhsTJSwdHwQmLxFBUjguH/xAAXAQEBAQEAAAAAAAAAAAAAAAAAAQID/8QAGxEBAQEAAwEBAAAAAAAAAAAAAAERITFBAhL/2gAMAwEAAhEDEQA/APw9siwwULFkEgLFgALFkACbFgggmxYACwmABpB0revSK8e5WNsiT+hpCPUoska4oart6k4IJ8/58zsx47LEYZFS0S9Ecsj6LxXpVnFmxtPXQlHLNV3LYpdHyfXt4k5DEKvNNNp80VtmmV2ovr+F/L/JmKJsiwCBYsgATYsgATYsgAWTIsAoWLAAWWgypaBBVkEsgASQAAJIAAAAASBBJBIAtiWvgtX5LUqaJ1F95afLqUU5m8ddCNn2WU+SdfQ+ng3RSuXhohIObBw99aNVtEV19DuW7o1otToxbvVLTXvZuRHznnpXr6NmG05YyWsvo0erw7vrt5EbTuXjSdRl3T0JVeEyP0KHqtp9nkk3GLXPrp8j4W17unj6XHw6GMHLj1Ul/wBvT/JQ0wOpK+TtP5lJxptPpoXwQQSCAQSyAJIAAEgACCSCgCQBBeBQvAgqyCWQAJIAAAAASQAAAAkgkAa1rXSOn7/WymJar19NTTHyso+xuvTDJ1q5aPy0/c+5sSjNauvA87lzuEMcV1ipPwOae9JXcNDfU5R673WNZIVJU20149D6uy7NF+B+c5N5Tk0+qd34n09i9pskWlL8Ol+QmLr3zxJeoztKMvBPyObZNsWSClHl9jz++9/e7k4x1r+MvSPQwlHgi7/pWvTkfP2rZoTtxp8+Wp4ue+Mr0v4b0j2XY22TfDj+Li+VE2Gqb62NY5cUdE+fgzi2xfEpfmjGX01+x9zeG1482GTTuSXXRnwsjuEP7W4/qSz1WBJAMAAAAAAAACQQCgSCABeBUtAgqyCWABBKAAgAASyAAAAEgEAa4dLfaL+un6mmFaPyl9ikfwSfW0i+GVKvP+fQvI7N54/hi3zSS5dD5Z7H/R++iopW+FeCXi2cOX2Zkmoxtvv0o1Zoqs+zqErWD3Xu0owUVLP7xLnxdLf2PPxjdJc2fb2r2feNpOTbfJRWrZOz7reK5Tvi1qP5bJ6x8/M+enpPZLG/cNPo6o8ZviDWad27k9X5nu/ZmvcuvzM87vbY+OeVV/Vaa7mr00+duT3CjmeTHjy5Uoe5hlnKEHz4uTWvI5t8Y8ccn/FpFxi3FS4lGTWqT6qzpxbiyyVpaLmWx+z2V9NPJmcZzndfO2brSk21ySsor4ZLs06+n6o9bse5/cQlJq218V2mvFHmc9cckuqkv1X2LlxpyAAyoACCAAAJIAEggkoAgkgFoFS0QKsFmRQEEFqFAQQWFAVBahQEAmgBAJoUBo/wLxkxB6Lzf2LZdIQXg36lIdvFMtHrfZ7btFxPoj1EWqtdep+abJtEoPS6Tenge03LtqnBX0NS6Pqe7i/ipX0bS0POb3nwyafXl1PTSmkm+iVt+B4LeG85PJkaVty04ukV2LUem9j23jmv7vuUx5oPPOPVyo4t275jjw/A0pt62uvU58m9lLKlCC4nLi4lz7sng9hg2dLpobSxKKM9jzqcIvv9ym3Z1GLfKjfSvlb/ANr4YNLm9F+54Dj+JPxXmfX31t7nJpPTmfFOdqIkqZBpkVSfmUolVAJoAVJRNCiCCC1CgIoEgCATQAgtEgvBFCiKLtEUQVoFqFAVoUWoUBWhRagBUUWoUBWgXoRjbSA12tU4rtCKKbOtafVP1L7V+OXmZRdOy0WnF2fY9ndppuP0PnzXLx+RphxvHki+j+onaPYZc/H8C5V8b7+B8nbt1Kc+KNUlTXc+Tk3pKmlzbu0YLeGT8xvYJ2nduSM+CMXJN6V1PQezW7YrXIlxa0tDz/8AuWXT4lpy0ReG9sqfFa4u+pOB7XDn923Honr5vk/A+R7R7x+FxXNnw8O9snE23fFz8Rn4s0/BV5D9D507epEkd204OC+fI4jCrZl+F94r1Wn7GVG61hX5Xa8nzMqAqC9CgKUKLUKArQotQoCoLUKArQotQoCtFooUWigDAsABQsWAAFgAAAAACjXZY3NevoZG+yum32iyjLI7bfdtlQCDujG4JrmtRPLfD4PUpsWTnF+aEo0/tfItGGaFNmdHdkxPn36HLKDvkLBmKJaNIY7rn5IgpijbS8T7m7oKKk2fP2bZmnxNVXJdTr2va1HG4R0lLWT7Lsbk42ji2/Pxyb6cl5HGS5EGbdGmF61+ZOPqZtE2Xz87/Mk/n1AzAsWQAAAAFgAAAAACi0UVstFgZtizNsiwNbFmViwNbFmViwNeIWZWLA1sWZWTYGnEa45VCb8kc1mknUF/c2/TQoWLMrFkHRhnUkdkpcSr5o+bHmdUrpd0Brs+018MuXfsfS2Scbpv59Dz+Qtj2iUdEyj1U/d18XCzj2jNiSqMUm+p8X/WSqjKWVsWjvybdSaXPv2OVSvVswimzZqo+Y0VbIsiaM7INbL8Vx8n9znsvjfTvp8+gFuIWZsiwNeIWZWLA14hxGViwNbFmViwNbHEZWLA1stGRhZaLAqQSyAAAAAkgAAABJAAGuZ/hXaK9XqVxxtpeIyytt+IFCQTwgTA3i78+hhFGsUwLyV9PQj3SLrxLcSA53iJWN9jaUkivvL5L9gEIUUyTs14G+ZEkuWgHNNmZrOJRoCpKIAGmXv3V/PqZmi1j5a/LqZgAAAAAAAAACQILRKlogQyCWQAAAAAAAAABJAGmLq+yf7GZfp5v6IqBMVqa8NojFA6FHQDHFC0bwiiNm6o6I4wiixkNUa0Q0VWOnYni7F+BFZICjI4TSK6shK+lEGE8ZjNHbLsc8o23/NQMZIqXmigFscqf85EZI02iC0naXhoBQEgCAAAJAAAAATEhkxAhoUAAoUAAoUAEKFABShQAF8q1rskisUAKOrEjp4PAAJXPh0m13R9DGtEAFTJaGT5/wDgAE8IWIgFot7qjOSIBBlkXUzwLTzbZIAplx9THhAAo4kw568gAIcaIoABQSAAIUAAoUAEKJiAFf/Z",
+    "video": "data:image/jpeg;base64,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",
+    "descricao": "What is Lorem Ipsum?\nLorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+    "id": 1
+  },
+  {
+    "titulo": "IT A COISA",
+    "categoria": "Terror",
+    "imagem": "https://s2-g1.glbimg.com/LzgaVHmBFG1JraEfDtaoC7OXpfM=/0x0:960x619/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2017/j/W/GWn4e7SbauGukAkjfJ8w/it.png",
+    "video": "https://s2-g1.glbimg.com/LzgaVHmBFG1JraEfDtaoC7OXpfM=/0x0:960x619/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2017/j/W/GWn4e7SbauGukAkjfJ8w/it.png",
+    "descricao": "What is Lorem Ipsum?\nLorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+    "id": 2
+  },
+  {
+    "titulo": "A HORA DO PESADELO",
+    "categoria": "Terror",
+    "imagem": "https://wallpapers.com/images/featured/imagens-do-freddy-krueger-p73qvtjrldftxyk8.jpg",
+    "video": "https://wallpapers.com/images/featured/imagens-do-freddy-krueger-p73qvtjrldftxyk8.jpg",
+    "descricao": "What is Lorem Ipsum?\nLorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+    "id": 3
+  },
+  {
+    "titulo": "VIGADORES",
+    "categoria": "Ação",
+    "imagem": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/F68A37C406935DAC54D102B66D1DE194BA0D082B78D51FB7FFDEBD30781B5202/scale?width=1200&aspectRatio=1.78&format=webp",
+    "video": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/F68A37C406935DAC54D102B66D1DE194BA0D082B78D51FB7FFDEBD30781B5202/scale?width=1200&aspectRatio=1.78&format=webp",
+    "descricao": "What is Lorem Ipsum?\nLorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+    "id": 4
+  },
+  {
+    "titulo": "LIGA DA JUSTIÇA",
+    "categoria": "Ação",
+    "imagem": "https://ogimg.infoglobo.com.br/politica/22077455-31d-ac9/FT1086A/760/liga-da-justica.jpg",
+    "video": "https://ogimg.infoglobo.com.br/politica/22077455-31d-ac9/FT1086A/760/liga-da-justica.jpg",
+    "descricao": "What is Lorem Ipsum?\nLorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+    "id": 5
+  },
+  {
+    "titulo": "HOMEM ARANHA",
+    "categoria": "Ação",
+    "imagem": "https://upload.wikimedia.org/wikipedia/pt/thumb/1/14/Spide-Man_Poster.jpg/250px-Spide-Man_Poster.jpg",
+    "video": "https://upload.wikimedia.org/wikipedia/pt/thumb/1/14/Spide-Man_Poster.jpg/250px-Spide-Man_Poster.jpg",
+    "descricao": "What is Lorem Ipsum?\nLorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+    "id": 6
+  },
+  {
+    "titulo": "COMO SE FOSSE A PRIMEIRA VEZ",
+    "categoria": "Comédia",
+    "imagem": "https://vivariomarrecife.com.br/wp-content/uploads/2020/05/comedias-romanticas.jpg",
+    "video": "https://vivariomarrecife.com.br/wp-content/uploads/2020/05/comedias-romanticas.jpg",
+    "descricao": "What is Lorem Ipsum?\nLorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+    "id": 7
+  },
+  {
+    "titulo": "O MENTIROSO",
+    "categoria": "Comédia",
+    "imagem": "https://tm.ibxk.com.br/2022/10/05/05193311160333.jpg?ims=1200x675",
+    "video": "https://tm.ibxk.com.br/2022/10/05/05193311160333.jpg?ims=1200x675",
+    "descricao": "What is Lorem Ipsum?\nLorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+    "id": 8
+  },
+  {
+    "titulo": "FAMÍLIA DO BAGULHO",
+    "categoria": "Comédia",
+    "imagem": "https://fly.metropoles.cloud/upload/q_85,w_600/https://uploads.metropoles.cloud/wp-content/uploads/2020/04/03114642/familiadobagulho.jpg",
+    "video": "https://fly.metropoles.cloud/upload/q_85,w_600/https://uploads.metropoles.cloud/wp-content/uploads/2020/04/03114642/familiadobagulho.jpg",
+    "descricao": "What is Lorem Ipsum?\nLorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+    "id": 9
+  }
+]
 }
