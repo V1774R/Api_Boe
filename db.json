@@ -62,7 +62,14 @@
       "graduacao": "GCM",
       "senha": "123456",
       "id": "b9bb"
-    }    
+    },
+    {
+      "nome": "Aurélio Lemos",
+      "matricula": "109333",
+      "graduacao": "GCM",
+      "senha": "123456",
+      "id": "z8cz"
+    } 
   ],
   "relatorios": [],
   "boletins": [],
