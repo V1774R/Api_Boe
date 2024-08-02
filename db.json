@@ -8,17 +8,24 @@
       "id": "1818"
     },
     {
+      "nome": "Diego Santos",
+      "matricula": "110420",
+      "graduacao": "GCM",
+      "senha": "123456",
+      "id": "1818"
+    },
+    {
       "nome": "Dourado",
       "matricula": "111832",
       "graduacao": "GCM",
-      "senha": "654321",
+      "senha": "123456",
       "id": "4e38"
     },
     {
       "nome": "Mayra Monteiro",
       "matricula": "110423",
       "graduacao": "GCM",
-      "senha": "324504",
+      "senha": "123456",
       "id": "3f21"
     },
     {
