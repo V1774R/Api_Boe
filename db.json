@@ -129,7 +129,7 @@
     "descricao": "Suco de abacaxi natural, com um sabor tropical e refrescante."
   },
   {
-    "nome": "Suco de Abacaxi",
+    "nome": "Suco de Abacaxi2",
     "preco": 5.50,
     "imagem": "https://media.istockphoto.com/id/1356778093/pt/vetorial/delicious-burger-flat-logo-icon-sticker-vector.jpg?s=612x612&w=0&k=20&c=6l9ISGxYMYD8dk6qKpNIkKm-IiPg5HR06UtdoK7iEW4=",
     "categoria": "Sucos",
@@ -143,7 +143,7 @@
     "descricao": "Pizza tradicional italiana com molho de tomate, queijo mozzarella e manjericão fresco."
   },
   {
-    "nome": "Pizza Margherita",
+    "nome": "Pizza Margherita2",
     "preco": 22.00,
     "imagem": "https://media.istockphoto.com/id/1356778093/pt/vetorial/delicious-burger-flat-logo-icon-sticker-vector.jpg?s=612x612&w=0&k=20&c=6l9ISGxYMYD8dk6qKpNIkKm-IiPg5HR06UtdoK7iEW4=",
     "categoria": "Pizza",
@@ -185,7 +185,7 @@
     "descricao": "Sorvete de morango com pedaços de fruta e sabor refrescante."
   },
   {
-    "nome": "Sorvete de Morango",
+    "nome": "Sorvete de Morango2",
     "preco": 8.50,
     "imagem": "https://media.istockphoto.com/id/1356778093/pt/vetorial/delicious-burger-flat-logo-icon-sticker-vector.jpg?s=612x612&w=0&k=20&c=6l9ISGxYMYD8dk6qKpNIkKm-IiPg5HR06UtdoK7iEW4=",
     "categoria": "Sorvetes",
